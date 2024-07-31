@@ -1,0 +1,1 @@
+9. DEMO-SRS-147 : The application shall allow users to filter requirements according to a condition in disjunctive normal form (DNF).

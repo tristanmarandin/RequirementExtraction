@@ -1,0 +1,1 @@
+10. DEMO-SRS-171 : The application should display updated values within 1 second after the user triggers the edit operation.

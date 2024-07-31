@@ -1,0 +1,1 @@
+3. DEMO-SRS-59 : The application shall allow users to save the opened document into a file.

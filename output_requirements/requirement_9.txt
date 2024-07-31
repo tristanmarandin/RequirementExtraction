@@ -1,0 +1,1 @@
+8. DEMO-SRS-144 : The application shall automatically persist all document changes and restore them when it is restarted.

@@ -1,0 +1,1 @@
+5. DEMO-SRS-76 : The application shall allow users to export the displayed document view to HTML.

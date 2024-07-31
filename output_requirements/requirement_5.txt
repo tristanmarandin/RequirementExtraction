@@ -1,0 +1,1 @@
+4. DEMO-SRS-72 : The application shall allow users to import a MS Word document preserving structure of document sections and paragraphs, rich text description of requirements, and images.

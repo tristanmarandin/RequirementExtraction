@@ -1,0 +1,1 @@
+2. DEMO-SRS-56 : The application shall allow users to open a document from a chosen file.

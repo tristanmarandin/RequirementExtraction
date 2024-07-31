@@ -1,0 +1,1 @@
+1. DEMO-SRS-53 : The application shall allow users to create a new empty document.
